@@ -1,0 +1,204 @@
+City,Enrollment Year,Enrollments
+Banff,2012,18
+Banff,2013,25
+Banff,2014,19
+Banff,2015,28
+Banff,2016,23
+Banff,2017,29
+Banff,2018,37
+Calgary,2012,18
+Calgary,2013,30
+Calgary,2014,23
+Calgary,2015,26
+Calgary,2016,26
+Calgary,2017,36
+Calgary,2018,32
+Charlottetown,2012,9
+Charlottetown,2013,10
+Charlottetown,2014,7
+Charlottetown,2015,13
+Charlottetown,2016,7
+Charlottetown,2017,11
+Charlottetown,2018,9
+Dawson Creek,2012,40
+Dawson Creek,2013,71
+Dawson Creek,2014,67
+Dawson Creek,2015,65
+Dawson Creek,2016,56
+Dawson Creek,2017,68
+Dawson Creek,2018,77
+Edmonton,2012,50
+Edmonton,2013,69
+Edmonton,2014,66
+Edmonton,2015,74
+Edmonton,2016,73
+Edmonton,2017,71
+Edmonton,2018,83
+Fredericton,2012,47
+Fredericton,2013,75
+Fredericton,2014,55
+Fredericton,2015,58
+Fredericton,2016,54
+Fredericton,2017,69
+Fredericton,2018,67
+Halifax,2012,51
+Halifax,2013,80
+Halifax,2014,76
+Halifax,2015,68
+Halifax,2016,83
+Halifax,2017,77
+Halifax,2018,83
+Hull,2012,36
+Hull,2013,58
+Hull,2014,58
+Hull,2015,50
+Hull,2016,57
+Hull,2017,31
+Hull,2018,68
+Kelowna,2012,7
+Kelowna,2013,9
+Kelowna,2014,14
+Kelowna,2015,13
+Kelowna,2016,13
+Kelowna,2017,9
+Kelowna,2018,23
+Kingston,2012,45
+Kingston,2013,62
+Kingston,2014,54
+Kingston,2015,46
+Kingston,2016,56
+Kingston,2017,68
+Kingston,2018,70
+London,2012,17
+London,2013,13
+London,2014,33
+London,2015,31
+London,2016,20
+London,2017,28
+London,2018,32
+Moncton,2012,16
+Moncton,2013,23
+Moncton,2014,31
+Moncton,2015,44
+Moncton,2016,27
+Moncton,2017,33
+Moncton,2018,37
+Montreal,2012,211
+Montreal,2013,284
+Montreal,2014,262
+Montreal,2015,278
+Montreal,2016,312
+Montreal,2017,313
+Montreal,2018,399
+Ottawa,2012,54
+Ottawa,2013,70
+Ottawa,2014,63
+Ottawa,2015,70
+Ottawa,2016,78
+Ottawa,2017,84
+Ottawa,2018,90
+Peace River,2012,9
+Peace River,2013,18
+Peace River,2014,14
+Peace River,2015,15
+Peace River,2016,26
+Peace River,2017,14
+Peace River,2018,17
+Quebec City,2012,53
+Quebec City,2013,73
+Quebec City,2014,72
+Quebec City,2015,57
+Quebec City,2016,59
+Quebec City,2017,76
+Quebec City,2018,95
+Regina,2012,41
+Regina,2013,56
+Regina,2014,63
+Regina,2015,49
+Regina,2016,51
+Regina,2017,69
+Regina,2018,80
+St. John's,2012,24
+St. John's,2013,48
+St. John's,2014,41
+St. John's,2015,30
+St. John's,2016,37
+St. John's,2017,32
+St. John's,2018,46
+Sudbury,2012,21
+Sudbury,2013,29
+Sudbury,2014,40
+Sudbury,2015,26
+Sudbury,2016,30
+Sudbury,2017,34
+Sudbury,2018,47
+Thunder Bay,2012,24
+Thunder Bay,2013,41
+Thunder Bay,2014,32
+Thunder Bay,2015,32
+Thunder Bay,2016,40
+Thunder Bay,2017,45
+Thunder Bay,2018,42
+Toronto,2012,342
+Toronto,2013,479
+Toronto,2014,484
+Toronto,2015,497
+Toronto,2016,503
+Toronto,2017,485
+Toronto,2018,561
+Tremblant,2012,36
+Tremblant,2013,68
+Tremblant,2014,57
+Tremblant,2015,51
+Tremblant,2016,50
+Tremblant,2017,65
+Tremblant,2018,71
+Trenton,2012,36
+Trenton,2013,65
+Trenton,2014,74
+Trenton,2015,58
+Trenton,2016,73
+Trenton,2017,84
+Trenton,2018,96
+Vancouver,2012,258
+Vancouver,2013,346
+Vancouver,2014,359
+Vancouver,2015,383
+Vancouver,2016,394
+Vancouver,2017,360
+Vancouver,2018,482
+Victoria,2012,48
+Victoria,2013,51
+Victoria,2014,45
+Victoria,2015,51
+Victoria,2016,61
+Victoria,2017,56
+Victoria,2018,77
+West Vancouver,2012,36
+West Vancouver,2013,54
+West Vancouver,2014,55
+West Vancouver,2015,50
+West Vancouver,2016,35
+West Vancouver,2017,35
+West Vancouver,2018,59
+Whistler,2012,54
+Whistler,2013,78
+Whistler,2014,88
+Whistler,2015,68
+Whistler,2016,98
+Whistler,2017,86
+Whistler,2018,110
+Whitehorse,2012,15
+Whitehorse,2013,15
+Whitehorse,2014,19
+Whitehorse,2015,13
+Whitehorse,2016,12
+Whitehorse,2017,18
+Whitehorse,2018,18
+Winnipeg,2012,70
+Winnipeg,2013,97
+Winnipeg,2014,99
+Winnipeg,2015,87
+Winnipeg,2016,102
+Winnipeg,2017,101
+Winnipeg,2018,102

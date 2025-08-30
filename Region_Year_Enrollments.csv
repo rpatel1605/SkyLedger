@@ -1,0 +1,78 @@
+Province,RegionType,Enrollment Year,Enrollments
+Alberta,Urban,2012,95
+Alberta,Urban,2013,142
+Alberta,Urban,2014,122
+Alberta,Urban,2015,143
+Alberta,Urban,2016,148
+Alberta,Urban,2017,150
+Alberta,Urban,2018,169
+British Columbia,Urban,2012,443
+British Columbia,Urban,2013,609
+British Columbia,Urban,2014,628
+British Columbia,Urban,2015,630
+British Columbia,Urban,2016,657
+British Columbia,Urban,2017,614
+British Columbia,Urban,2018,828
+Manitoba,Rural,2012,70
+Manitoba,Rural,2013,97
+Manitoba,Rural,2014,99
+Manitoba,Rural,2015,87
+Manitoba,Rural,2016,102
+Manitoba,Rural,2017,101
+Manitoba,Rural,2018,102
+New Brunswick,Rural,2012,63
+New Brunswick,Rural,2013,98
+New Brunswick,Rural,2014,86
+New Brunswick,Rural,2015,102
+New Brunswick,Rural,2016,81
+New Brunswick,Rural,2017,102
+New Brunswick,Rural,2018,104
+Newfoundland,Rural,2012,24
+Newfoundland,Rural,2013,48
+Newfoundland,Rural,2014,41
+Newfoundland,Rural,2015,30
+Newfoundland,Rural,2016,37
+Newfoundland,Rural,2017,32
+Newfoundland,Rural,2018,46
+Nova Scotia,Rural,2012,51
+Nova Scotia,Rural,2013,80
+Nova Scotia,Rural,2014,76
+Nova Scotia,Rural,2015,68
+Nova Scotia,Rural,2016,83
+Nova Scotia,Rural,2017,77
+Nova Scotia,Rural,2018,83
+Ontario,Urban,2012,539
+Ontario,Urban,2013,759
+Ontario,Urban,2014,780
+Ontario,Urban,2015,760
+Ontario,Urban,2016,800
+Ontario,Urban,2017,828
+Ontario,Urban,2018,938
+Prince Edward Island,Unknown,2012,9
+Prince Edward Island,Unknown,2013,10
+Prince Edward Island,Unknown,2014,7
+Prince Edward Island,Unknown,2015,13
+Prince Edward Island,Unknown,2016,7
+Prince Edward Island,Unknown,2017,11
+Prince Edward Island,Unknown,2018,9
+Quebec,Urban,2012,336
+Quebec,Urban,2013,483
+Quebec,Urban,2014,449
+Quebec,Urban,2015,436
+Quebec,Urban,2016,478
+Quebec,Urban,2017,485
+Quebec,Urban,2018,633
+Saskatchewan,Rural,2012,41
+Saskatchewan,Rural,2013,56
+Saskatchewan,Rural,2014,63
+Saskatchewan,Rural,2015,49
+Saskatchewan,Rural,2016,51
+Saskatchewan,Rural,2017,69
+Saskatchewan,Rural,2018,80
+Yukon,Rural,2012,15
+Yukon,Rural,2013,15
+Yukon,Rural,2014,19
+Yukon,Rural,2015,13
+Yukon,Rural,2016,12
+Yukon,Rural,2017,18
+Yukon,Rural,2018,18
